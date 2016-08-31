@@ -1,0 +1,15 @@
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.dll
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.dll
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.dll
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.xml
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.xml
+E:\C#\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.xml
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+E:\C#\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
